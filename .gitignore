@@ -1,0 +1,43 @@
+# Ignore system files
+AppData/
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
+# Ignore hidden configuration files and directories
+.VirtualBox/
+.aws/
+.bash_history
+.bash_profile
+.bashrc
+.gitconfig
+.lesshst
+.vscode/
+
+# Ignore user-specific files
+Contacts/
+Documents/
+Downloads/
+Music/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+OneDrive/
+WPS Cloud Files/
+
+# Ignore Windows user profile and NTUSER files
+NTUSER.DAT*
+myscript/
+
+# Ignore other unnecessary files
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
